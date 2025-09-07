@@ -1,46 +1,150 @@
-# Getting Started with Create React App
+# 🌐 Portal de Transparencia Conectada
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Una plataforma ética, modular y pública que redefine la interacción entre la ciudadanía y el gobierno.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 👩‍💼 Información Oficial
 
-### `npm start`
+- **Fundadora y Directora General**: Estefanía Pérez Vázquez
+- **Agencia de Desarrollo**: Fanny Design Style
+- **Correo Electrónico**: fannydesignstyle@outlook.com
+- **Teléfono de Contacto**: 951 743 9204
+- **Año de Lanzamiento**: 2025
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🎯 Descripción del Proyecto
 
-### `npm test`
+"Transparencia Conectada" es una plataforma digital que promueve la **transparencia institucional**, la **participación ciudadana** y el **acceso a la información pública** de manera ética y tecnológica.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## ✨ Características Principales
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ✅ Diseño moderno y responsive
+- ✅ Panel administrativo completo
+- ✅ Sistema de peticiones ciudadanas
+- ✅ Base de datos en tiempo real (Firebase)
+- ✅ Modo oscuro integrado
+- ✅ Búsqueda avanzada de contratos
+- ✅ Despliegue gratuito en Vercel
+- ✅ Código abierto y documentado
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Tecnologías Utilizadas
 
-### `npm run eject`
+- **Frontend**: React.js + TypeScript
+- **Estilos**: Tailwind CSS
+- **Base de Datos**: Firebase Firestore
+- **Autenticación**: Firebase Auth
+- **Hosting**: Vercel (gratuito)
+- **Rutas**: React Router DOM
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Instalación y Configuración
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### 1. Clonar el repositorio
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+git clone git@github.com:Fannydesignstyle/Transparencia-conectada.portalclaro.git
+cd Transparencia-conectada.portalclaro
+```
 
-## Learn More
+### 2. Instalar dependencias
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 3. Configurar Firebase
+
+1. Crear proyecto en [Firebase Console](https://console.firebase.google.com)
+2. Habilitar Firestore Database
+3. Registrar app web y obtener `firebaseConfig`
+4. Pegar configuración en `src/firebase.js`
+
+### 4. Ejecutar en desarrollo
+
+```bash
+npm start
+```
+
+> Abre http://localhost:3000
+
+---
+
+## 👨‍💼 Panel Administrativo
+
+- **URL Local**: http://localhost:3000/admin
+- **Funciones**:
+  - Gestionar contratos públicos
+  - Revisar y responder peticiones
+  - Monitorear actividad del portal
+
+---
+
+## ☁️ Despliegue en Vercel
+
+1. Crear cuenta en [Vercel](https://vercel.com)
+2. Conectar con GitHub
+3. Seleccionar este repositorio
+4. Configurar:
+   - Framework: Create React App
+   - Build Command: `npm run build`
+   - Output Directory: `build`
+5. Desplegar
+
+---
+
+## 📱 Optimización para Móvil
+
+- Diseño completamente responsive
+- Menú lateral colapsable
+- Formularios táctiles optimizados
+- Modo oscuro automático según preferencias del sistema
+
+---
+
+## 🤝 Contribuciones
+
+¿Quieres mejorar la plataforma?
+
+1. Haz fork del repositorio
+2. Crea una rama nueva (`git checkout -b feature/nueva-funcion`)
+3. Realiza tus cambios
+4. Envía un Pull Request
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
+
+---
+
+## 📞 Soporte y Contacto
+
+Para soporte técnico o consultas:
+
+📧 **Correo**: fannydesignstyle@outlook.com  
+📱 **Teléfono**: 951 743 9204  
+🏢 **Agencia**: Fanny Design Style  
+👩‍💼 **Directora**: Estefanía Pérez Vázquez
+
+---
+
+## 🌍 Impacto Social
+
+"Transparencia Conectada" busca:
+- Fortalecer la democracia
+- Promover la rendición de cuentas
+- Facilitar el acceso a la información pública
+- Empoderar a la ciudadanía digital
+
+---
+
+© 2025 Portal de Transparencia Conectada. Todos los derechos reservados.  
+Desarrollado por Fanny Design Style.
