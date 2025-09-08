@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Transparencia-conectada.portalclaro/static/css/main.042cc223.css",
+    "main.js": "/Transparencia-conectada.portalclaro/static/js/main.c29b1cc5.js",
+    "static/js/453.d52d0176.chunk.js": "/Transparencia-conectada.portalclaro/static/js/453.d52d0176.chunk.js",
+    "static/media/logo.svg": "/Transparencia-conectada.portalclaro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Transparencia-conectada.portalclaro/index.html",
+    "main.042cc223.css.map": "/Transparencia-conectada.portalclaro/static/css/main.042cc223.css.map",
+    "main.c29b1cc5.js.map": "/Transparencia-conectada.portalclaro/static/js/main.c29b1cc5.js.map",
+    "453.d52d0176.chunk.js.map": "/Transparencia-conectada.portalclaro/static/js/453.d52d0176.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.042cc223.css",
+    "static/js/main.c29b1cc5.js"
+  ]
+}
