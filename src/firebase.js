@@ -3,11 +3,11 @@ import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "TU_API_KEY",
+  apiKey: "AIzaSyC43KDwhtAAA1b-o64aPsT0YVhBJ7wan9M",
   authDomain: "transparencia-conectada.firebaseapp.com",
-  projectId: "transparencia-conectada",
+  projectId: "transparencia-conectada-web",
   storageBucket: "transparencia-conectada.appspot.com",
-  messagingSenderId: "123456789012",
+  messagingSenderId: "909306630198",
   appId: "1:123456789012:web:abcdef1234567890"
 };
 
